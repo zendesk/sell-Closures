@@ -9,5 +9,6 @@
         <page name='KVO'/>
         <page name='UIImagePickerController'/>
         <page name='UIBarButtonItem'/>
+        <page name='UITextView'/>
     </pages>
 </playground>

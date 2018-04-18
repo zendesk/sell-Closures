@@ -27,6 +27,7 @@
 		3FB77F311EE4DB5200C60F5C /* UITableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB77F301EE4DB5200C60F5C /* UITableViewTests.swift */; };
 		3FD393C61F9E583900DA155D /* UIBarButtonItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD393C51F9E583900DA155D /* UIBarButtonItem.swift */; };
 		3FD393C81F9E61A900DA155D /* UIBarButtonItemTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD393C71F9E61A900DA155D /* UIBarButtonItemTests.swift */; };
+		EA22843420863811008935E5 /* UITextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA22843320863811008935E5 /* UITextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		3FB77F301EE4DB5200C60F5C /* UITableViewTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITableViewTests.swift; sourceTree = "<group>"; };
 		3FD393C51F9E583900DA155D /* UIBarButtonItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIBarButtonItem.swift; sourceTree = "<group>"; };
 		3FD393C71F9E61A900DA155D /* UIBarButtonItemTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIBarButtonItemTests.swift; sourceTree = "<group>"; };
+		EA22843320863811008935E5 /* UITextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				3F59C56E1F1C32AA00945666 /* UIPickerView.swift */,
 				3F59C56F1F1C32AA00945666 /* UIScrollView.swift */,
 				3F59C5701F1C32AA00945666 /* UITableView.swift */,
+				EA22843320863811008935E5 /* UITextView.swift */,
 			);
 			path = Source;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 				3F59C5731F1C32BF00945666 /* UICollectionView.swift in Sources */,
 				3F59C5741F1C32BF00945666 /* UIControl.swift in Sources */,
 				3F59C5721F1C32BF00945666 /* KVO.swift in Sources */,
+				EA22843420863811008935E5 /* UITextView.swift in Sources */,
 				3F59C5751F1C32BF00945666 /* UIGestureRecognizer.swift in Sources */,
 				3F59C5711F1C32BF00945666 /* Core.swift in Sources */,
 				3F59C5791F1C32BF00945666 /* UITableView.swift in Sources */,
