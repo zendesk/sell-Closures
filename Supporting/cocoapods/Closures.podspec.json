@@ -13,8 +13,8 @@
     "ios": "9.0"
   },
   "source": {
-    "git": "https://github.com/vhesener/Closures.git",
-    "tag": "v0.4"
+    "git": "https://github.com/miasma13/Closures.git",
+    "branch": "master"
   },
   "source_files": "Xcode/Closures/Source",
   "documentation_url": "https://vhesener.github.io/Closures/",
